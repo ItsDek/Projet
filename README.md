@@ -13,5 +13,8 @@ Réception des différents colis:
 Découverte du raspberry pi et de son environnement, activation du VNC et SSH pour une prise en main
 facile à partir de mon pc principale.
 
-Testing des leds en affichant des mots dessus, tout semble fonctionner parfaitement
+Testing des leds en affichant des mots dessus, tout semble fonctionner parfaitement.
+
+
+Création d'un site web avec joomla (peux être utile par la suite ?) Le nom du domain est dek-it.be
 
