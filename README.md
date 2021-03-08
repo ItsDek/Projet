@@ -30,3 +30,5 @@ Maitenant il faut """""""""""""""""""""""""juste""""""""""""""""""""""""""" que 
 car je sais déjà afficher du texte sur ma led.
 
 
+Utilisation du site https://www.learncpp.com/ pour avoir quelques base pour mon code.
+
