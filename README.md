@@ -18,3 +18,15 @@ Testing des leds en affichant des mots dessus, tout semble fonctionner parfaitem
 
 Création d'un site web avec joomla (peux être utile par la suite ?) Le nom du domain est dek-it.be
 
+
+---------------------------------------------------------------------------------------------------------------------------
+UPDATE DU 08-03-21
+
+J'ai réussi à faire une requête à l'api ! Cela m'a pris deux jours pour comprendre (le site est absolument pas intuitif,
+j'avais plusieurs clé et pour s'abonner à la partie de l'api qui m'intérresse était buggé)
+MAIS je l'ai fait ! Et c'est le plus important !
+
+Maitenant il faut """""""""""""""""""""""""juste""""""""""""""""""""""""""" que je traite les données que j'ai obtenues,
+car je sais déjà afficher du texte sur ma led.
+
+
