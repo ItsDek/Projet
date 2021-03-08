@@ -5,9 +5,13 @@ Tout ce qu'il y a été fait du 02-03-2021 à 06-03-2021
 
 Réception des différents colis:
 
--Raspberry pi 4 4GO de ram avec pleins d'accessoire utile.
--le controlleur Esp8266
--2x LED MAX7219
+ -Raspberry pi 4 4GO de ram avec pleins d'accessoire utile.
+ 
+ -le controlleur Esp8266
+ 
+ -2x LED MAX7219
+ 
+ 
 
 --------------------------------------------------------------------------------------------------------------------------
 Découverte du raspberry pi et de son environnement, activation du VNC et SSH pour une prise en main
@@ -26,7 +30,7 @@ J'ai réussi à faire une requête à l'api ! Cela m'a pris deux jours pour comp
 j'avais plusieurs clé et pour s'abonner à la partie de l'api qui m'intérresse était buggé)
 MAIS je l'ai fait ! Et c'est le plus important !
 
-Maitenant il faut """""""""""""""""""""""""juste""""""""""""""""""""""""""" que je traite les données que j'ai obtenues,
+Maintenant il faut """""""""""""""""""""""""juste""""""""""""""""""""""""""" que je traite les données que j'ai obtenues,
 car je sais déjà afficher du texte sur ma led.
 
 
