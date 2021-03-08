@@ -26,7 +26,7 @@ J'ai réussi à faire une requête à l'api ! Cela m'a pris deux jours pour comp
 j'avais plusieurs clé et pour s'abonner à la partie de l'api qui m'intérresse était buggé)
 MAIS je l'ai fait ! Et c'est le plus important !
 
-Maitenant il faut """""""""""""""""""""""""juste""""""""""""""""""""""""""" que je traite les données que j'ai obtenues,
+Maintenant il faut """""""""""""""""""""""""juste""""""""""""""""""""""""""" que je traite les données que j'ai obtenues,
 car je sais déjà afficher du texte sur ma led.
 
 
