@@ -36,3 +36,11 @@ car je sais déjà afficher du texte sur ma led.
 
 Utilisation du site https://www.learncpp.com/ pour avoir quelques base pour mon code.
 
+
+
+
+-------------------------------------------------------------------------------------------------------------------------
+24/03/2021
+
+Bon avancement dans le projet, j'ai trouver un bon moyen de "parse" le code
+en json que je reçois lorsque je fais une requête à l'API en C.
