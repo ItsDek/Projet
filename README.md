@@ -42,5 +42,13 @@ Utilisation du site https://www.learncpp.com/ pour avoir quelques base pour mon 
 -------------------------------------------------------------------------------------------------------------------------
 24/03/2021
 
-Bon avancement dans le projet, j'ai trouver un bon moyen de "parse" le code
+Bon avancement dans le projet, j'ai trouver un bon moyen de "parser" le code
 en json que je reçois lorsque je fais une requête à l'API en C.
+
+---------------------------------------------------------------------------------------------------------
+03-04-21
+
+Je continue sur ma lancée, j'ai eu quelques soucis avec le code, mais j'ai réussi à les régler.
+Maitenant les réponses des requête que je fais s'enregistre automatiquement dans des fichiers spécifiques.
+
+(PS: j'ai upload mon main.py sur github !)
