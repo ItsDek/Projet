@@ -51,3 +51,44 @@ Je continue sur ma lancée, j'ai eu quelques soucis avec le code, mais j'ai réu
 Maitenant les réponses des requête que je fais s'enregistre automatiquement dans des fichiers spécifiques.
 
 (PS: j'ai upload mon main.py sur github !)
+
+----------------------------------------------------------------------------------------------------------
+07-05-21
+
+Oulà, il y a beaucoup de choses à dire ! Je vais essayer de rester concis.
+Je suis passer d'arduino vers micropython car:
+
+-Plus simple à comprendre/ rapide dans l'éxecution
+
+-Je peux controller ET ma matrice led ET les leds en même temps (c'était bugger sous arduino)
+
+
+J'ai rencontrer plusieurs soucis, le gros plus probléme était de faire afficher le texte que je reçevais de mon code en python, c'était très ennyant
+car sous arduino, je voyais vraiment pas comment l'implementer (et pleins de gens disaient que c'était trop dur voir impossible avec arduino)
+je me suis donc trourner vers micropython, j'ai eu là aussi beaucoup de soucis mais je les réglais beaucoup plus rapidement que sous arduino
+en voici quelques uns;
+
+
+
+Code qu'il fallait retaper sous arduino (car pas adapté à mon hardware ou juste des
+faut de typo qui fait tout capoter)
+
+L'app geany qui fonctionne pas avec python3, je passe donc sous pycharm
+
+pycharm detecte pas l'esp8266 (
+
+Mauvais package/libraires = outdated
+
+Impossible de continuer avec le firmware de 
+
+micropython (pas detecter sur pycharm)
+
+je remet le firmware de base car j'ai trouver une libraire qui pouvais
+marcher avec l'os de base
+
+MICROPYTHOn QUI DEMANDE PLEINS DE PACKAGE DIFFERENT SINON IL FONCTIONNE PAS
+
+Reinstallation de micropython car la libraire que j'ai tester fonctionnais pas
+
+carte plus detecter sur mon pc principale(Soucis au niveau des Drivers)
+
