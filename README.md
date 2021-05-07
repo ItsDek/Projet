@@ -97,3 +97,11 @@ J'ai finalement réussi à tout faire fonctionner( donc; chercher les infos grâ
 avec le code pour cette carte + la librairie et faire afficher le tout sur ma matrice led). J'ai aussi créer un petit script en shell 
 pour automatiser le tout
 
+j'ai utilisé la librairie de 
+https://github.com/jgbrown32/ESP8266_MAX7219
+qui lui même c'est basé sur ces libraires;
+
+Vincent Rialland : https://github.com/vrialland/micropython-max7219
+Mike Causer : https://github.com/mcauser/micropython-max7219
+joewez : https://github.com/joewez/WifiMarquee
+Merci à vous !
