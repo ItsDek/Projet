@@ -11,7 +11,7 @@ terminus9 = open('terminus.h', 'w')
 #ici ce passe la demande des données sur les serveurs de la STIB, c'est en gros la commande CURl mais en python.
 headers = {
     'Accept': 'application/json',
-    'Authorization': 'Bearer 4086731ce5283b3a00951e276ffc2d1c',
+    'Authorization': 'Bearer IL FAUT METTRE SON TOKEN ICI',
 }
 
 response = requests.get('https://opendata-api.stib-mivb.be/OperationMonitoring/4.0/PassingTimeByPoint/5013B',headers=headers)
