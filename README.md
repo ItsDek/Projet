@@ -92,3 +92,8 @@ Reinstallation de micropython car la libraire que j'ai tester fonctionnais pas
 
 carte plus detecter sur mon pc principale(Soucis au niveau des Drivers)
 
+
+J'ai finalement réussi à tout faire fonctionner( donc; chercher les infos grâce à l'api, traiter les données, le flasher sur la carte de dev. 
+avec le code pour cette carte + la librairie et faire afficher le tout sur ma matrice led). J'ai aussi créer un petit script en shell 
+pour automatiser le tout
+
